@@ -1,9 +1,10 @@
 package prueba;
 
 public class Retos {
-
+ 
 	//RETO 17-10-2018 
 		//En el método "calNumMenor", hacerlo con 7 variables
+	// Subir a Github y luego descargarlo con url
 		public static int calNumMenor(int x, int y, int z, int w) {
 			if (x < y)
 				if (x < z)
